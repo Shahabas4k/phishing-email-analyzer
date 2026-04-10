@@ -41,3 +41,18 @@ Review the risk assessment
 
 Requirements
 Python 3.x (built-in email library only, no external dependencies)
+
+Sample Output
+
+
+Author
+Cybersecurity student preparing for CEH certification
+
+Skills Demonstrated
+Email header analysis
+
+Python programming
+
+Phishing detection
+
+Security indicator identification
