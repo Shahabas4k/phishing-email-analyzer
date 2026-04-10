@@ -42,9 +42,9 @@ Review the risk assessment
 Requirements
 Python 3.x (built-in email library only, no external dependencies)
 
-Sample Output
+## Sample Output
 
-https://github.com/Shahabas4k/phishing-email-analyzer/blob/main/Screenshot%20(60).png
+![Sample Output](Screenshot%20(60).png)
 
 Author
 Cybersecurity student preparing for CEH certification
